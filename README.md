@@ -1,2 +1,4 @@
 # Hola-Mundo
-Repositorio Prueba para conocer conceptos basicos de github
+Repositorio Prueba
+Hola a todos
+Soy frews2 de mexico
